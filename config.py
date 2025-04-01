@@ -3,7 +3,7 @@
 # import board
 
 # Endereço da carteira mining
-ADDR_BTC = "pdhELsCVcdrg4M9w5j5DJ2nTrRvWRQcBm3"
+ADDR_BTC = ""
 
 # IP para enviar
 IP_RPI = "192.168.1.3"
